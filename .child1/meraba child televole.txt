@@ -6,3 +6,4 @@ the text that came from the child
 the text that came from master
 the text that came from master
 the text that came from child
+the text that came from master
